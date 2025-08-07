@@ -1,77 +1,11 @@
-[
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:20:31.142Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:20:36.307Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:11.439Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:16.611Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:16.721Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:33.995Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:39.167Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:21:46.617Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:22:45.493Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:24:00.927Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:24:37.804Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:24:38.732Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:24:43.918Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:25:54.250Z"
-  },
-  {
-    "email": "user@example.com",
-    "password": "password123",
-    "timestamp": "2025-08-07T16:27:51.573Z"
-  }
-]
+{
+  "users": [
+    {
+      "email": "avanthiliyanage16@gmail.com",
+      "password": "Dms535688",
+      "premium": false,
+      "joinDate": "2025-08-07T17:53:01.361Z",
+      "lastLogin": "2025-08-07T17:53:01.361Z"
+    }
+  ]
+}
