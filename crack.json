@@ -10,7 +10,7 @@
     {
       "email": "thenux@gamil.com",
       "password": "Dms5356988",
-      "premium": false,
+      "premium": true,
       "joinDate": "2025-08-07T18:05:21.147Z",
       "lastLogin": "2025-08-07T18:05:21.147Z"
     },
@@ -20,13 +20,6 @@
       "premium": false,
       "joinDate": "2025-08-07T18:15:45.159Z",
       "lastLogin": "2025-08-07T18:15:45.159Z"
-    },
-    {
-      "email": "methulpakaya@gmail.com",
-      "password": "Dms403688",
-      "premium": false,
-      "joinDate": "2025-08-08T03:59:06.942Z",
-      "lastLogin": "2025-08-08T03:59:06.943Z"
     }
   ]
 }
