@@ -3,7 +3,7 @@
     {
       "email": "avanthiliyanage16@gmail.com",
       "password": "Dms535688",
-      "premium": false,
+      "premium": true,
       "joinDate": "2025-08-07T17:53:01.361Z",
       "lastLogin": "2025-08-07T17:53:01.361Z"
     },
@@ -17,7 +17,7 @@
     {
       "email": "dddddddddddddd@gmail.com",
       "password": "dddddddddddddddd",
-      "premium": true,
+      "premium": false,
       "joinDate": "2025-08-07T18:15:45.159Z",
       "lastLogin": "2025-08-07T18:15:45.159Z"
     }
